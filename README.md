@@ -1,1 +1,1 @@
-##Bar and QR code generator
+Bar and QR code generator
